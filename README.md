@@ -2,6 +2,7 @@
 
 ## References
 
+- https://mvnrepository.com/artifact/dev.langchain4j
 - https://www.adictosaltrabajo.com/2024/03/05/langchain4j-potenciando-tus-aplicaciones-java-con-inteligencia-artificial-ia-y-modelos-de-lenguaje-de-gran-escala-llm-primeros-pasos/
 
 ## Tools
